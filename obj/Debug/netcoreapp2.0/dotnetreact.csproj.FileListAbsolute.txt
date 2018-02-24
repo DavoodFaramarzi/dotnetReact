@@ -1,0 +1,10 @@
+/home/bob/Desktop/dotnetreact/bin/Debug/netcoreapp2.0/dotnetreact.deps.json
+/home/bob/Desktop/dotnetreact/bin/Debug/netcoreapp2.0/dotnetreact.runtimeconfig.json
+/home/bob/Desktop/dotnetreact/bin/Debug/netcoreapp2.0/dotnetreact.runtimeconfig.dev.json
+/home/bob/Desktop/dotnetreact/bin/Debug/netcoreapp2.0/dotnetreact.dll
+/home/bob/Desktop/dotnetreact/bin/Debug/netcoreapp2.0/dotnetreact.pdb
+/home/bob/Desktop/dotnetreact/obj/Debug/netcoreapp2.0/dotnetreact.csproj.CoreCompileInputs.cache
+/home/bob/Desktop/dotnetreact/obj/Debug/netcoreapp2.0/dotnetreact.AssemblyInfoInputs.cache
+/home/bob/Desktop/dotnetreact/obj/Debug/netcoreapp2.0/dotnetreact.AssemblyInfo.cs
+/home/bob/Desktop/dotnetreact/obj/Debug/netcoreapp2.0/dotnetreact.dll
+/home/bob/Desktop/dotnetreact/obj/Debug/netcoreapp2.0/dotnetreact.pdb
